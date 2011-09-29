@@ -1,0 +1,1 @@
+Small tool to grab a Firewire-video whenever the mouse is clicked
